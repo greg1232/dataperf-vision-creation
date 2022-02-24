@@ -1,5 +1,5 @@
 
-# Dataperf Vision Creatin Reference
+# Dataperf Vision Creation Reference
 
 Submitters compete to generate the best training dataset.
 
