@@ -1,0 +1,6 @@
+python-configuration[yaml]
+boto3
+torch==1.8.1
+Pillow
+torchvision==0.9.1
+sklearn

@@ -1,0 +1,13 @@
+verbose: True
+verbose_info: True
+
+data:
+    train:
+        path: "dataperf_vision/data/cats4ml/train.csv"
+
+    test:
+        path: "dataperf_vision/data/cats4ml/test.csv"
+
+    cache_directory: "/tmp/dataperf"
+    max_size: 100
+
