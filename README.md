@@ -12,7 +12,7 @@ https://docs.docker.com/get-docker
 ## Clone this repo
 
 ```
-git clone
+git clone git@github.com:greg1232/dataperf-vision-creation.git
 ```
 
 # Run
